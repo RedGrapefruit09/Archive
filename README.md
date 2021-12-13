@@ -13,5 +13,6 @@ Covered mods:
 - MoreMetals
 - MythicalTowers
 - Utopia
+- JustEnoughGems
 
 The repository's license is CC0, but the mods themselves are licensed under MIT.
