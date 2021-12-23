@@ -1,0 +1,8 @@
+For JustEnoughGems version 0.3 and higher JARs are distributed in two categories:
+
+- Normal. Weigh small (<500KB), but require necessary dependencies to be installed
+- Standalone. Weigh heavier (>6MB), have all dependencies bundled and set up already. No extra steps needed
+
+Standalone builds are marked with the "s" suffix after the JAR name. For example: justenoughgems-0.3s.jar
+
+Other generated files (-dev, -sources, -sources-dev) are also distributed for standalone builds.
