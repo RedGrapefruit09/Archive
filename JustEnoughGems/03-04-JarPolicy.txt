@@ -1,4 +1,4 @@
-For JustEnoughGems version 0.3 and higher JARs are distributed in two categories:
+For JustEnoughGems version 0.3 and 0.4 JARs are distributed in two categories:
 
 - Normal. Weigh small (<500KB), but require necessary dependencies to be installed
 - Standalone. Weigh heavier (>6MB), have all dependencies bundled and set up already. No extra steps needed
