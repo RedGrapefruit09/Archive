@@ -19,7 +19,7 @@ The repository's license is CC0, but the mods themselves are licensed under MIT.
 
 ## Downloading files
 
-Since this repository weighs **over 600MB**, it isn't recommended to clone it to download some file.
+Since this repository weighs **over 1GB**, it isn't recommended to clone it to download some file.
 
 Instead, use this method:
 
