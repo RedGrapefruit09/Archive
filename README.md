@@ -1,6 +1,6 @@
-# Archive
+# Mods
 
-Here, you'll find all release packages for my non-library projects.
+Here, you'll find all release packages for my non-library mod projects.
 
 A **release package** contains a ZIP file with the contents of the repository's `master` branch at the time of publishing and pre-built binaries.
 
